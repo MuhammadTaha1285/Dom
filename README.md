@@ -735,10 +735,10 @@ element<span class="code-string">.classList</span>.add(<span class="code-string"
               manipulation through hands-on examples.
             </p>
             <div class="social-icons">
-              <a href="#"><i class="fab fa-github"></i></a>
+              <a href="#"><i class="fab fa-whatsapp"></i></a>
               <a href="#"><i class="fab fa-twitter"></i></a>
               <a href="#"><i class="fab fa-linkedin"></i></a>
-              <a href="#"><i class="fab fa-youtube"></i></a>
+              <a href="#"><i class="fab fa-github"></i></a>
             </div>
           </div>
 
